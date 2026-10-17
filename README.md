@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![PyRIT — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 <p align="center"><img src="./doc/roakey.png" width="150"></p>
 
 # Python Risk Identification Tool for generative AI (PyRIT)
@@ -23,3 +27,18 @@ Any use of third-party trademarks or logos are subject to those third-party's
 policies.
 
 If you use PyRIT in your research, please cite the tool itself following the [`CITATION.cff`](./CITATION.cff) file in the root of this repository.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:selected-result -->
+
+## 已有界面与示例
+
+![Co-PyRIT 已有聊天界面示例，展示正常文本对话与会话操作。](assets/readme/result.png)
+
+Co-PyRIT 已有聊天界面示例，展示正常文本对话与会话操作。 该图为仓库已有上游示例，保留原有来源；本次仅整理展示，未重新运行。 [查看来源](https://github.com/GISWLH/PyRIT/blob/main/doc/gui/images/chat_text.png)。
+
+<!-- /readme-visual-refresh:selected-result -->
